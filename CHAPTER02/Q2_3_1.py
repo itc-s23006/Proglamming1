@@ -1,4 +1,10 @@
-print(12 / 55)
-divmod(120, 55)
-divmod(100, 55)
-divmod(450, 55)
+from decimal import Decimal, getcontext
+
+a = 12
+b = 55
+
+getcontext().prec = 18  # 有効桁数を設定
+
+result = Decimal(a) / Decimal(b)
+
+print(result)
