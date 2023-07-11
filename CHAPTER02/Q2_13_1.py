@@ -11,6 +11,6 @@ print(result)
 result = pow(2, 3)
 print(result)
 
-# 値を変えてpow(整数)
+# 値を変えてpow(小数)
 result = pow(9.0, 8)
 print(result)
