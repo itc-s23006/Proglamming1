@@ -5,7 +5,7 @@ while a < 100:
     a += 2
 print(a)
 
-# A = 88
+# A = 88の場合
 A = 0
 while A < 96:
     if A > 87:
