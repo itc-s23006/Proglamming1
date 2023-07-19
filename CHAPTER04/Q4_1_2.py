@@ -6,3 +6,9 @@ def fib2(n):
         result.append(a)
         a, b = b, a + b
     return result
+
+
+# テスト
+n = 1000  # フィボナッチ数列の上限
+fibonacci_list = fib2(n)
+print(fibonacci_list)
