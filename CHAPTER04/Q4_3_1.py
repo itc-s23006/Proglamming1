@@ -4,6 +4,6 @@ def concat_words(*args, separator="."):
 
 
 result1 = concat_words("a", "b", "c", "d", separator="_")
-result2 = concat_words("OSAKA", "okinawa", "AKITA" separator="*")
+result2 = concat_words("OSAKA", "okinawa", "AKITA", separator=" * ")
 print(result1)
 print(result2)
