@@ -1,4 +1,4 @@
-# max = 90のとき
+# max = 13のとき
 functions = [sum, min, max]
 number_list = range(2, 14)
 for func in functions:
