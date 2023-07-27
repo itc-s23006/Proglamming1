@@ -63,15 +63,15 @@
 * 7.3 ユーザ定義例外 ([問題1](./CHAPTER07/Q7_3_1.py),[問題2](./CHAPTER07/Q7_3_2.py)) 
 * 7.4 クリーンアップ ([問題1](./CHAPTER07/Q7_4_1.py),[問題2](./CHAPTER07/Q7_4_2.py)) 
 ### 第8章　標準ライブラリ
-* 8.1 os
-* 8.2 pathlib
-* 8.3 collections
-* 8.4 re
-* 8.5 math／statistics
-* 8.6 datetime
-* 8.7 json
-* 8.8 sqlite3
-* 8.9 decimal
-* 8.10 logging
+* 8.1 os ([問題1](./CHAPTER08/Q8_1_1.py),[問題2](./CHAPTER08/Q8_1_2.py)) 
+* 8.2 pathlib ([問題1](./CHAPTER08/Q8_2_1.py),[問題2](./CHAPTER08/Q8_2_2.py)) 
+* 8.3 collections ([問題1](./CHAPTER08/Q8_3_1.py),[問題2](./CHAPTER08/Q8_3_2.py)) 
+* 8.4 re ([問題1](./CHAPTER08/Q8_4_1.py),[問題2](./CHAPTER08/Q8_4_2.py)) 
+* 8.5 math／statistics ([問題1](./CHAPTER08/Q8_5_1.py),[問題2](./CHAPTER08/Q8_5_2.py)) 
+* 8.6 datetime ([問題1](./CHAPTER08/Q8_6_1.py),[問題2](./CHAPTER08/Q8_6_2.py)) 
+* 8.7 json ([問題1](./CHAPTER08/Q8_7_1.py),[問題2](./CHAPTER08/Q8_7_2.py)) 
+* 8.8 sqlite3 ([問題1](./CHAPTER08/Q8_8_1.py),[問題2](./CHAPTER08/Q8_8_2.py)) 
+* 8.9 decimal ([問題1](./CHAPTER08/Q8_9_1.py),[問題2](./CHAPTER08/Q8_9_2.py)) 
+* 8.10 logging ([問題1](./CHAPTER08/Q8_10_1.py),[問題2](./CHAPTER08/Q8_10_2.py)) 
 
 
